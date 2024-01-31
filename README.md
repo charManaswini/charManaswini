@@ -2,13 +2,13 @@
 <h1 align="center">Hello ^-^ Manaswini here!</h1>
 <h3 align="center">From Algorithms to Applications, there lies everything I am interested in. <br> I find Machine Learning, Data Science very futuristic, and I love these fields.</br></h3>
 <img align="right" src="Coding.gif" alt="Coding GIF" style="display: block; margin: 0 auto;" loop="infinite">
-- I'm currently working on [Cysteg - Decoding & Encoding the Cyber Realm](https://github.com/charManaswini/cysteg)
+- I'm currently working on <a href='https://github.com/charManaswini/cysteg'>Cysteg - Decoding & Encoding the Cyber Realm</a>
 
 - I’m currently learning **Cloud Computing, Big Data Analytics, and Machine Learning.**
 
 - 🤝I'm Looking to collaborate on **Projects based on Full Stack Web Development, Machine Learning, Data Science.**
 
-- 📝 You can check out few of my articles here [https://copyassignment.com/author/manaswini/](https://copyassignment.com/author/manaswini/)
+- 📝 You can check out few of my articles <a href='https://copyassignment.com/author/manaswini/'>here</a>
 
 - 📫 How to reach me **manaswinipoluri@gmail.com**
 
