@@ -1,10 +1,8 @@
-<video src="gallery.mp4" autoplay loop controls style="display: block; margin: 0 auto;" start="0" end="3">
-    Your browser does not support the video tag.
-</video>
+
 
 <h1 align="center">Hello ^-^ Manaswini here!</h1>
 <h3 align="center">From Algorithms to Applications, there lies everything I am interested in. I find Machine Learning, Data Science very futuristic, and I love these fields.</h3>
-<img align="center" src="Coding.gif" alt="Coding GIF" style="display: block; margin: 0 auto;" autoplay>
+<img align="center" src="Coding.gif" alt="Coding GIF" style="display: block; margin: 0 auto;">
 - I'm currently working on [Cysteg - Decoding & Encoding the Cyber Realm](https://github.com/charManaswini/cysteg)
 
 - I’m currently learning **Cloud Computing, Big Data Analytics, and Machine Learning.**
