@@ -1,8 +1,7 @@
-
-
+<img align="center" src="gallery.gif" alt="Cg GIF" style="display: block; margin: 0 auto;" loop="infinite">
 <h1 align="center">Hello ^-^ Manaswini here!</h1>
-<h3 align="center">From Algorithms to Applications, there lies everything I am interested in. I find Machine Learning, Data Science very futuristic, and I love these fields.</h3>
-<img align="center" src="Coding.gif" alt="Coding GIF" style="display: block; margin: 0 auto;">
+<h3 align="center">From Algorithms to Applications, there lies everything I am interested in. <br> I find Machine Learning, Data Science very futuristic, and I love these fields.</br></h3>
+<img align="right" src="Coding.gif" alt="Coding GIF" style="display: block; margin: 0 auto;" loop="infinite">
 - I'm currently working on [Cysteg - Decoding & Encoding the Cyber Realm](https://github.com/charManaswini/cysteg)
 
 - I’m currently learning **Cloud Computing, Big Data Analytics, and Machine Learning.**
