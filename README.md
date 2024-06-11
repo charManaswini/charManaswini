@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charmanaswini&show_icons=true&locale=en" alt="charmanaswini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charmanaswini&" alt="charmanaswini" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmanaswini&layout=compact&theme=radical" alt="charmanaswini" /></p>
