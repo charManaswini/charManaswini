@@ -8,8 +8,6 @@
 
 - 🤝I'm Looking to collaborate on **Projects based on Full Stack Web Development, Machine Learning, Data Science.**
 
-- 📝 You can check out few of my articles <a href='https://copyassignment.com/author/manaswini/'>here</a>
-
 - 📫 How to reach me **manaswinipoluri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
